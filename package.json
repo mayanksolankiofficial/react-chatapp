@@ -1,5 +1,5 @@
 {
-  "name": "ms-mongochat",
+  "name": "mongochat",
   "version": "1.0.0",
   "description": "Simple chat app using sockets",
   "main": "server.js",
